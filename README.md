@@ -1,16 +1,15 @@
-### Hi there 👋
 <!-- Stats -->
 [![Luck’s github stats](https://github-readme-stats.vercel.app/api?username=Laidbackluck&theme=blue-green)](https://github.com/Laidbackluck)
-
 [![Luck’s Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Laidbackluck&theme=blue-green)](https://github.com/Laidbackluck)
 
+### Hi there 👋
 <!-- 
 <br />
 
-
 ### About Me
 
-<br /> -->
+<br /> 
+-->
 
 ### :briefcase: My Skills 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
