@@ -44,9 +44,10 @@
  -->
 <br />
 
-
 ### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luckychav/)
+
+[![Kaggle](https://img.shields.io/badge/-Kaggle-D3D3D3?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/luckychav)
 
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-%232C2D72.svg?style=for-the-badge&logo=Tableau&&logoColor=white)](https://public.tableau.com/app/profile/laidbackluck)
 
