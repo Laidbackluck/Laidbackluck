@@ -33,10 +33,10 @@ https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 <!-- ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->
 
 ### :bar_chart: My Projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=Harry-Mack-Omegle-Bars-1-to-50-Repository)](https://github.com/Laidbackluck/Harry-Mack-Omegle-Bars-1-to-50-Repository/blob/master)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=Kaggle-Competition-Titanic-Analysis_Repository)](https://github.com/Laidbackluck/Kaggle-Competition-Titanic-Analysis_Repository/blob/master)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=IBM-Data-Science-Project-Repository)](https://github.com/Laidbackluck/IBM-Data-Science-Project-Repository/blob/master)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=IBM-Data-Analyst-Capstone-Project-Repository)](https://github.com/Laidbackluck/IBM-Data-Analyst-Capstone-Project-Repository/blob/master)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=Harry-Mack-Omegle-Bars-1-to-50-Repository)](https://github.com/Laidbackluck/Harry-Mack-Omegle-Bars-1-to-50-Repository/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=Kaggle-Competition-Titanic-Analysis_Repository)](https://github.com/Laidbackluck/Kaggle-Competition-Titanic-Analysis_Repository/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=IBM-Data-Science-Project-Repository)](https://github.com/Laidbackluck/IBM-Data-Science-Project-Repository/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=IBM-Data-Analyst-Capstone-Project-Repository)](https://github.com/Laidbackluck/IBM-Data-Analyst-Capstone-Project-Repository/)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=REPO)](https://github.com/Laidbackluck/REPO) -->
 
 ### 🌱 Currently Learning
