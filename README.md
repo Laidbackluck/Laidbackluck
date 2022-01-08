@@ -1,5 +1,7 @@
 <!-- Stats -->
-<!-- Reference: https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c -->
+<!-- References: 
+https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c
+https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 [![Luck’s github stats](https://github-readme-stats.vercel.app/api?username=Laidbackluck&theme=blue-green)](https://github.com/Laidbackluck)
 [![Luck’s Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Laidbackluck&theme=blue-green)](https://github.com/Laidbackluck)
 
