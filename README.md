@@ -2,8 +2,8 @@
 <!-- References: 
 https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c
 https://www.webfx.com/tools/emoji-cheat-sheet/ -->
-[![Luck’s github stats](https://github-readme-stats.vercel.app/api?username=Laidbackluck&theme=blue-green)](https://github.com/Laidbackluck)
-[![Luck’s Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Laidbackluck&theme=blue-green)](https://github.com/Laidbackluck)
+
+![Black Flatlay Photo Motivational Finance Quote Facebook Cover](https://user-images.githubusercontent.com/91815051/148690018-d5364b76-0018-4e75-b7d8-0a87ba28a38e.png)
 
 ### Hi there 👋
 <!-- 
@@ -111,6 +111,10 @@ https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-%232C2D72.svg?style=for-the-badge&logo=Tableau&&logoColor=white)](https://public.tableau.com/app/profile/laidbackluck)
 
+<br />
+
+[![Luck’s github stats](https://github-readme-stats.vercel.app/api?username=Laidbackluck&theme=blue-green)](https://github.com/Laidbackluck)
+[![Luck’s Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Laidbackluck&theme=blue-green)](https://github.com/Laidbackluck)
 <!-- 
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
