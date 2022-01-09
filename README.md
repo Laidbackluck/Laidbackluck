@@ -7,7 +7,10 @@ https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 [![Luck’s github stats](https://github-readme-stats.vercel.app/api?username=Laidbackluck&theme=blue-green)](https://github.com/Laidbackluck)
 [![Luck’s Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Laidbackluck&theme=blue-green)](https://github.com/Laidbackluck)
 
-### Hi there 👋
+<h3 align="center">
+Hi there 👋
+</h3>
+
 <!-- 
 <br />
 
@@ -16,7 +19,8 @@ https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 <br /> 
 -->
 
-### :briefcase: My Skills 
+## :briefcase: My Skills 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -32,9 +36,9 @@ https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
  -->
+ 
+## :bar_chart: My Projects 
 
-
-### :bar_chart: My Projects 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=Covid-Project-Repository)](https://github.com/Laidbackluck/Covid-Project-Repository/blob/master/Covid_SQL_queries.ipynb)
@@ -90,7 +94,7 @@ https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=REPO)](https://github.com/Laidbackluck/REPO) -->
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Ken Jee's [#66DaysOfData](https://www.youtube.com/watch?v=qV_AlRwhI3I) challenge
 - House Price Prediction [Kaggle Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) 
@@ -106,7 +110,7 @@ https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 - 💬 Ask me about bartending :beers: :wine_glass: :tropical_drink:
  -->
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luckychav/)
 
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/luckychav)
