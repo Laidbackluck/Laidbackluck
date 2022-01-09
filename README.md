@@ -70,8 +70,8 @@ https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=Google-Data-Analytics-Capstone-Repository)](https://github.com/Laidbackluck/Google-Data-Analytics-Capstone-Repository)
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
