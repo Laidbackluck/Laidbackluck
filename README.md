@@ -43,7 +43,7 @@ Hi there 👋
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=Covid-Project-Repository)](https://github.com/Laidbackluck/Covid-Project-Repository/blob/master/Covid_SQL_queries.ipynb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=Covid-Project)](https://github.com/Laidbackluck/Covid-Project/blob/master/Covid_SQL_queries.ipynb)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -52,7 +52,7 @@ Hi there 👋
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=Harry-Mack-Omegle-Bars-1-to-50-Repository)](https://github.com/Laidbackluck/Harry-Mack-Omegle-Bars-1-to-50-Repository/blob/master/HMack_Lyric_Generator.ipynb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=Harry-Mack-Omegle-Bars-1-to-50)](https://github.com/Laidbackluck/Harry-Mack-Omegle-Bars-1-to-50/blob/master/HMack_Lyric_Generator.ipynb)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -61,7 +61,7 @@ Hi there 👋
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=IBM-Data-Science-Project-Repository)](https://github.com/Laidbackluck/IBM-Data-Science-Project-Repository/blob/master/IBM%20Data%20Science%20Capstone%20-%20SpaceX%20Launch%20Success%20Analysis.pdf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=IBM-Data-Science-Capstone)](https://github.com/Laidbackluck/IBM-Data-Science-Capstone/blob/master/IBM%20Data%20Science%20Capstone%20-%20SpaceX%20Launch%20Success%20Analysis.pdf)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -69,14 +69,14 @@ Hi there 👋
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=IBM-Data-Analyst-Capstone-Project-Repository)](https://github.com/Laidbackluck/IBM-Data-Analyst-Capstone-Project-Repository/blob/master/IBM%20Data%20Analyst%20Capstone%20-%20IT%20Trends%20Analysis.pdf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=IBM-Data-Analyst-Capstone)](https://github.com/Laidbackluck/IBM-Data-Analyst-Capstone/blob/master/IBM%20Data%20Analyst%20Capstone%20-%20IT%20Trends%20Analysis.pdf)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=Google-Data-Analytics-Capstone-Repository)](https://github.com/Laidbackluck/Google-Data-Analytics-Capstone-Repository/blob/master/cyclistic-bike-share-analysis.ipynb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=Google-Data-Analytics-Capstone)](https://github.com/Laidbackluck/Google-Data-Analytics-Capstone/blob/master/cyclistic-bike-share-analysis.ipynb)
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -87,7 +87,7 @@ Hi there 👋
 
 :trophy: [![Kaggle_Competitions](https://img.shields.io/badge/-Kaggle_Competitions-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/luckychav) :trophy: 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=Kaggle-Competition-Titanic-Analysis_Repository)](https://github.com/Laidbackluck/Kaggle-Competition-Titanic-Analysis_Repository/blob/master/Titanic-Analysis.ipynb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=Kaggle-Competition-Titanic-Analysis)](https://github.com/Laidbackluck/Kaggle-Competition-Titanic-Analysis/blob/master/Titanic-Analysis.ipynb)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
