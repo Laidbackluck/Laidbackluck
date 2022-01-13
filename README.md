@@ -94,6 +94,14 @@ Hi there 👋
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=Kaggle-Competition-House-Price-Predictions)](https://github.com/Laidbackluck/Kaggle-Competition-House-Price-Predictions/blob/main/House_Price_Prediction.ipynb)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Laidbackluck&repo=REPO)](https://github.com/Laidbackluck/REPO) -->
 
 ## 🌱 Currently Learning
